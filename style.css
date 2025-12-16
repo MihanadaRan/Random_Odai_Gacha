@@ -85,7 +85,7 @@ body {
   border-radius: 20px;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.15);
 
-  display: none; /* 最初は非表示 */
+  display: none; 
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -124,7 +124,7 @@ button:active {
 .select {
   display: flex;
   justify-content: center;
-  gap: 150px;
+  gap: 120px;
 }
 
 .select button {
